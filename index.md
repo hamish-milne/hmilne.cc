@@ -1,5 +1,3 @@
-# Hamish Milne
-
 ## About me
 
 I'm an engineer by trade and by nature. I enjoy all kinds of development, so I tend work on all sorts of things in my spare time: libraries, open-source projects, games etc. If you have an idea or problem you think I could help with, drop me a line and I'll consider it!
